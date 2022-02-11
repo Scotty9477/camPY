@@ -1,0 +1,422 @@
+[
+    {
+      "Camera": "CE01",
+      "IP": "10.1.0.1",
+      "Quad": 0,
+      "Localisation": [48.917918, 2.417690]
+    },
+    {
+      "Camera": "CE10",
+      "IP": "10.1.0.4",
+      "Quad": 0,
+      "Localisation": [48.923113, 2.423475]
+    },
+    {
+      "Camera": "CE104",
+      "IP": "10.1.0.60",
+      "Quad": 0,
+      "Localisation": [48.919723, 2.424999]
+    },
+    {
+      "Camera": "CE104",
+      "IP": "10.1.0.61",
+      "Quad": 1,
+      "Localisation": [48.919723, 2.424999]
+    },
+    {
+      "Camera": "CE12",
+      "IP": "10.1.0.12",
+      "Quad": 0,
+      "Localisation": [48.922384, 2.427002]
+    },
+    {
+      "Camera": "CE156",
+      "IP": "10.1.0.157",
+      "Quad": 0,
+      "Localisation": [48.915687, 2.459472]
+    },
+    {
+      "Camera": "CE91",
+      "IP": "10.2.0.18",
+      "Quad": 0,
+      "Localisation": [48.927771, 2.437722]
+    },
+    {
+      "Camera": "CE91",
+      "IP": "10.2.0.19",
+      "Quad": 1,
+      "Localisation": [48.927771, 2.437722]
+    },
+    {
+      "Camera": "CE11",
+      "IP": "10.2.0.20",
+      "Quad": 0,
+      "Localisation": [48.929395, 2.433463]
+    },
+    {
+      "Camera": "CE11",
+      "IP": "10.2.0.21",
+      "Quad": 1,
+      "Localisation": [48.929395, 2.433463]
+    },
+    {
+      "Camera": "CE16",
+      "IP": "10.2.0.22",
+      "Quad": 0,
+      "Localisation": [48.928477, 2.435768]
+    },
+    {
+      "Camera": "CE16",
+      "IP": "10.2.0.23",
+      "Quad": 1,
+      "Localisation": [48.928477, 2.435768]
+    },
+    {
+      "Camera": "CE160",
+      "IP": "10.2.0.37",
+      "Quad": 0,
+      "Localisation": [48.926862, 2.438215]
+    },
+    {
+      "Camera": "CE89",
+      "IP": "10.4.0.189",
+      "Quad": 1,
+      "Localisation": [48.919101, 2.429103]
+    },
+    {
+      "Camera": "CE152",
+      "IP": "10.5.0.152",
+      "Quad": 0,
+      "Localisation": [48.923284, 2.439144]
+    },
+    {
+      "Camera": "CE39",
+      "IP": "10.6.0.50",
+      "Quad": 1,
+      "Localisation": [48.922706, 2.441271]
+    },
+    {
+      "Camera": "CE151",
+      "IP": "10.6.0.151",
+      "Quad": 0,
+      "Localisation": [48.922905, 2.443193]
+    },
+    {
+      "Camera": "CE65",
+      "IP": "10.6.0.159",
+      "Quad": 0,
+      "Localisation": [48.923120, 2.443326]
+    },
+    {
+      "Camera": "CE66",
+      "IP": "10.6.0.160",
+      "Quad": 0,
+      "Localisation": [48.923004, 2.443277]
+    },
+    {
+      "Camera": "CE64",
+      "IP": "10.7.0.41",
+      "Quad": 0,
+      "Localisation": [48.924475, 2.442991]
+    },
+    {
+      "Camera": "CE80",
+      "IP": "10.7.0.80",
+      "Quad": 0,
+      "Localisation": [48.918450, 2.448593]
+    },
+    {
+      "Camera": "CE81",
+      "IP": "10.7.0.81",
+      "Quad": 0,
+      "Localisation": [48.918159, 2.447755]
+    },
+    {
+      "Camera": "CE81",
+      "IP": "10.7.0.82",
+      "Quad": 1,
+      "Localisation": [48.918159, 2.447755]
+    },
+    {
+      "Camera": "CE33",
+      "IP": "10.7.0.31",
+      "Quad": 1,
+      "Localisation": [48.923079, 2.445085]
+    },
+    {
+      "Camera": "CE48",
+      "IP": "10.7.0.92",
+      "Quad": 1,
+      "Localisation": [48.922541, 2.445778]
+    },
+    {
+      "Camera": "CE93",
+      "IP": "10.7.0.93",
+      "Quad": 0,
+      "Localisation": [48.922389, 2.440832]
+    },
+    {
+      "Camera": "CE34",
+      "IP": "10.7.0.95",
+      "Quad": 0,
+      "Localisation": [48.917424, 2.446444]
+    },
+    {
+      "Camera": "CE150",
+      "IP": "10.7.0.150",
+      "Quad": 0,
+      "Localisation": [48.923200, 2.445215]
+    },
+    {
+      "Camera": "CE148",
+      "IP": "10.7.0.151",
+      "Quad": 1,
+      "Localisation": [48.926379, 2.450434]
+    },
+    {
+      "Camera": "CE149",
+      "IP": "10.7.0.152",
+      "Quad": 1,
+      "Localisation": [48.926594, 2.450364]
+    },
+    {
+      "Camera": "CE96",
+      "IP": "10.8.0.42",
+      "Quad": 0,
+      "Localisation": [48.923442, 2.459065]
+    },
+    {
+      "Camera": "CE97",
+      "IP": "10.8.0.43",
+      "Quad": 0,
+      "Localisation": [48.923848, 2.458396]
+    },
+    {
+      "Camera": "CE97",
+      "IP": "10.8.0.46",
+      "Quad": 1,
+      "Localisation": 0
+    },
+    {
+      "Camera": "CE98",
+      "IP": "10.8.0.44",
+      "Quad": 0,
+      "Localisation": [48.926203, 2.459214]
+    },
+    {
+      "Camera": "CE99",
+      "IP": "10.8.0.45",
+      "Quad": 0,
+      "Localisation": [48.923949, 2.462343]
+    },
+    {
+      "Camera": "CE84",
+      "IP": "10.8.0.84",
+      "Quad": 0,
+      "Localisation": [48.928337, 2.452213]
+    },
+    {
+      "Camera": "CE85",
+      "IP": "10.8.0.85",
+      "Quad": 0,
+      "Localisation": [48.933427, 2.455545]
+    },
+    {
+      "Camera": "CE56",
+      "IP": "10.8.0.56",
+      "Quad": 0,
+      "Localisation": [48.929994, 2.437734]
+    },
+    {
+      "Camera": "CE84",
+      "IP": "10.8.0.184",
+      "Quad": 1,
+      "Localisation": [48.928337, 2.452213]
+    },
+    {
+      "Camera": "CE51",
+      "IP": "10.9.0.51",
+      "Quad": 0,
+      "Localisation": [48.918277, 2.465795]
+    },
+    {
+      "Camera": "CE46",
+      "IP": "10.10.0.37",
+      "Quad": 1,
+      "Localisation": [48.919205, 2.450143]
+    },
+    {
+      "Camera": "CE68",
+      "IP": "10.10.0.38",
+      "Quad": 0,
+      "Localisation": [48.920610, 2.453056]
+    },
+    {
+      "Camera": "CE68",
+      "IP": "10.10.0.39",
+      "Quad": 1,
+      "Localisation": [48.920610, 2.453056]
+    },
+    {
+      "Camera": "CE58",
+      "IP": "10.10.0.58",
+      "Quad": 0,
+      "Localisation": [48.921978, 2.448331]
+    },
+    {
+      "Camera": "CE67",
+      "IP": "10.10.0.67",
+      "Quad": 0,
+      "Localisation": [48.919839, 2.451559]
+    },
+    {
+      "Camera": "CE135",
+      "IP": "10.10.0.135",
+      "Quad": 0,
+      "Localisation": [48.915673, 2.452425]
+    },
+    {
+      "Camera": "CE71",
+      "IP": "10.221.12.71",
+      "Quad": 1,
+      "Localisation": [48.925302, 2.445236]
+    },
+    {
+      "Camera": "CE71",
+      "IP": "10.221.12.171",
+      "Quad": 0,
+      "Localisation": [48.925302, 2.445236]
+    },
+    {
+      "Camera": "CE72",
+      "IP": "10.221.12.72",
+      "Quad": 0,
+      "Localisation": [48.925261, 2.444616]
+    },
+    {
+      "Camera": "CE87",
+      "IP": "10.221.12.87",
+      "Quad": 0,
+      "Localisation": [48.930731, 2.427709]
+    },
+    {
+      "Camera": "CE100",
+      "IP": "10.221.12.100",
+      "Quad": 0,
+      "Localisation": [48.930771, 2.429869]
+    },
+    {
+      "Camera": "CE100",
+      "IP": "10.221.12.101",
+      "Quad": 1,
+      "Localisation": [48.930771, 2.429869]
+    },
+    {
+      "Camera": "CE110",
+      "IP": "10.221.12.110",
+      "Quad": 0,
+      "Localisation": [48.930879, 2.429048]
+    },
+    {
+      "Camera": "CE118",
+      "IP": "10.221.12.118",
+      "Quad": 0,
+      "Localisation": [48.925759, 2.442510]
+    },
+    {
+      "Camera": "CE127",
+      "IP": "10.221.12.127",
+      "Quad": 0,
+      "Localisation": [48.927193, 2.428467]
+    },
+    {
+      "Camera": "CE130",
+      "IP": "10.221.12.130",
+      "Quad": 1,
+      "Localisation": 0
+    },
+    {
+      "Camera": "CE131",
+      "IP": "10.221.12.131",
+      "Quad": 1,
+      "Localisation": 0
+    },
+    {
+      "Camera": "CE136",
+      "IP": "10.221.12.136",
+      "Quad": 1,
+      "Localisation": 0
+    },
+    {
+      "Camera": "CE137",
+      "IP": "10.221.12.137",
+      "Quad": 1,
+      "Localisation": 0
+    },
+    {
+      "Camera": "CE138",
+      "IP": "10.10.0.138",
+      "Quad": 0,
+      "Localisation": [48.919311, 2.460835]
+    },
+    {
+      "Camera": "CE145",
+      "IP": "10.221.12.145",
+      "Quad": 0,
+      "Localisation": [48.935840, 2.454524]
+    },
+    {
+      "Camera": "CE146",
+      "IP": "10.221.12.146",
+      "Quad": 0,
+      "Localisation": [48.935250, 2.456844]
+    },
+    {
+      "Camera": "CE147",
+      "IP": "10.221.12.148",
+      "Quad": 0,
+      "Localisation": [48.932978, 2.454378]
+    },
+    {
+      "Camera": "CE154",
+      "IP": "10.10.0.140",
+      "Quad": 1,
+      "Localisation": 0
+    },
+    {
+      "Camera": "CE154",
+      "IP": "10.10.0.141",
+      "Quad": 0,
+      "Localisation": [48.920135, 2.454505]
+    },
+    {
+      "Camera": "CE155",
+      "IP": "10.221.12.155",
+      "Quad": 0,
+      "Localisation": [48.915677, 2.459395]
+    },
+    {
+      "Camera": "CE159",
+      "IP": "10.221.12.160",
+      "Quad": 1,
+      "Localisation": [48.922463, 2.448841]
+    },
+    {
+      "Camera": "CE159",
+      "IP": "10.221.12.161",
+      "Quad": 0,
+      "Localisation": [48.922463, 2.448841]
+    },
+    {
+      "Camera": "CE161",
+      "IP": "10.221.12.162",
+      "Quad": 0,
+      "Localisation": [48.921898, 2.445788]
+    },
+    {
+      "Camera": "CE161",
+      "IP": "10.221.12.163",
+      "Quad": 1,
+      "Localisation": [48.921898, 2.445788]
+    }
+  ]
