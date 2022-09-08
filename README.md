@@ -7,4 +7,3 @@ Vous pouvez remodeler ce script a votre guise pour le faire marcher avec n'impor
 
 BONUS : Une mini API permttant de récupérer les shadows des objets super facilement :))
 
-probably nothing :/
